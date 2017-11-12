@@ -1,0 +1,403 @@
+"Item","Description","Quantity On Hand","Lot Number"
+"10pads","Cold Air Diffuser Replacement Pads - 10",30,
+"30-case-blk","30 Bottle Essential Oil Carrying Case, Black/Grey",9,
+"30-case-blue","30 Bottle Essential Oil Carrying Case, Blue",7,
+"30-case-pur","30 Bottle Essential Oil Carrying Case, Purple",3,
+"30-case-pur-grn","30 Bottle Essential Oil Carrying Case, Purple/Green",27,
+"64-case-blk","64 Bottle Essential Oil Carrying Case, Black",6,
+"64-case-blue","64 Bottle Essential Oil Carrying Case, Navy Blue",1,
+"64-case-pur","64 Bottle Essential Oil Carrying Case, Purple",2,
+"addiction-free-naturally","Addiction-Free Naturally",6,
+"advanced-bach-flowers","Advanced Bach Flower Therapy",1,
+"advancedaromatherapy","Advanced Aromatherapy",-1,
+"an-hb-005","Helichrysum Balkans 5mL",-15,
+"aroma-healthy-child","Aromatherapy for the Healthy Child",1,
+"aromatherapy-complete","The Complete Book of Aromatherapy and Essential Oils",4,
+"aromatherapy-healing","Aromatherapy for Healing the Spirit",4,
+"aromavsmrsa","Aromatherapy vs MRSA (Book)",0,
+"carpads","Car Diffuser Pads (10 pack)",27,
+"completearoma","The Complete Guide to Aromatherapy",5,
+"Cord","Power Cord for Diffuser",36,
+"Custom-Product","Custom Product",-2,
+"dcb-2","1.75oz Disc-Cap Bottle",58,
+"di00001","Aromatherapy Car Diffuser",27,
+"di00003","Aromatherapy Plug-in Room Diffuser",26,
+"diffusBulbReplacement","Glass Bulb - Wood Diffuser",-2,
+"diffuserglassgeo","Glass Assembly (Bulb + Silencer) - Wood (Geometric) Diffuser",39,
+"diffuserglassround","Glass Assembly (Bulb + Silencer) - Wood (Round) Diffuser",29,
+"diffussilencerG","Silencer - Wood (Geometric) Diffuser",79,
+"diffussilencerR","Silencer - Wood (Round) Diffuser",12,
+"ditimer","Digital Diffuser Timer",36,
+"encyclopedia-aroma","Encyclopedia of Aromatherapy",5,
+"fe01001-07m","Aloe Vera Flower Essence 7.5ml",1,
+"fe01001-30m","Aloe Vera Flower Essence 30ml",1,
+"fe01003-30m","Angel's Trumpet Flower Essence 30ml",1,
+"fe01004-30m","Angelica Flower Essence 30ml",2,
+"fe01005-30m","Arnica Flower Essence 30ml",1,
+"fe01009-30m","Black-Eyed Susan Flower Essence 30ml",2,
+"fe01015-07m","California Pitcher Plant Flower Essence 7.5ml",3,
+"fe01015-30m","California Pitcher Plant Flower Essence 30ml",6,
+"fe01016-07m","California Poppy Flower Essence 7.5ml",2,
+"fe01016-30m","California Poppy  Flower Essence 30ml",4,
+"fe01017-07m","California Wild Rose Flower Essence 7.5ml",2,
+"fe01017-30m","California Wild Rose Flower Essence 30ml",3,
+"fe01018-07m","Calla Lily Flower Essence 7.5ml",2,
+"fe01018-30m","Calla Lily Flower Essence 30ml",3,
+"fe01019-07m","Canyon Dudleya Flower Essence 7.5ml",5,
+"fe01019-30m","Canyon Dudleya Flower Essence 30ml",5,
+"fe01022-07m","Chaparral Flower Essence 7.5ml",1,
+"fe01022-30m","Chaparral Flower Essence 30ml",2,
+"fe01023-07m","Chrysanthemum Flower Essence 7.5ml",5,
+"fe01023-30m","Chrysanthemum Flower Essence 30ml",1,
+"fe01024-07m","Corn Flower Essence 7.5ml",0.98,
+"fe01027-07m","Deerbrush Flower Essence 7.5ml",5,
+"fe01028-30m","Dill Flower Essence 30ml",2,
+"fe01031-07m","Echinacea Flower Essence 7.5ml",4,
+"fe01031-30m","Echinacea Flower Essence 30ml",3,
+"fe01037-07m","Fuchsia Flower Essence 7.5ml",1,
+"fe01038-07m","Garlic Flower Essence 7.5ml",3,
+"fe01039-30m","Golden Ear Drops Flower Essence 30ml",1,
+"fe01041-07m","Goldenrod Flower Essence 7.5ml",1,
+"fe01043-07m","Hound's Tongue Flower Essence 7.5ml",3,
+"fe01043-30m","Hound's Tongue Flower Essence 30ml",2,
+"fe01044-07m","Indian Paintbrush Flower Essence 7.5ml",2,
+"fe01044-30m","Indian Paintbrush Flower Essence 30ml",1,
+"fe01050-07m","Lotus Flower Essence 7.5ml",7.45,
+"fe01054-07m","Manzanita Flower Essence 7.5ml",3,
+"fe01054-30m","Manzanita Flower Essence 30ml",2,
+"fe01056-30m","Milkweed Flower Essence 30ml",3,
+"fe01059-30m","Mountain Pride Flower Essence 30ml",2,
+"fe01061-07m","Mullein Flower Essence 7.5ml",2,
+"fe01061-30m","Mullein Flower Essence 30ml",1,
+"fe01062-07m","Nasturtium Flower Essence 7.5ml",3,
+"fe01064-07m","Oregon Grape Flower Essence 7.5ml",23,
+"fe01064-30m","Oregon Grape Flower Essence 30ml",3,
+"fe01069-07m","Poison Oak Flower Essence 7.5ml",4,
+"fe01069-30m","Poison Oak Flower Essence 30ml",2,
+"fe01070-07m","Pomegranate Flower Essence 7.5ml",2,
+"fe01070-30m","Pomegranate Flower Essence 30ml",2,
+"fe01071-07m","Pretty Face Flower Essence 7.5ml",4.7,
+"fe01072-30m","Purple Monkeyflower Flower Essence 30ml",4,
+"fe01074-07m","Queen Anne's Lace Flower Essence 7.5ml",4,
+"fe01074-30m","Queen Anne's Lace Flower Essence 30ml",2,
+"fe01075-07m","Quince Flower Essence 7.5ml",3,
+"fe01075-30m","Quince Flower Essence 30ml",1,
+"fe01077-07m","Red Clover Flower Essence 7.5ml",6,
+"fe01077-30m","Red Clover Flower Essence 30ml",1,
+"fe01079-07m","Sage Flower Essence 7.5ml",3,
+"fe01079-30m","Sage Flower Essence 30ml",1,
+"fe01080-30m","Sagebrush Flower Essence 30ml",1,
+"fe01081-07m","Saguaro Flower Essence 7.5ml",5,
+"fe01083-07m","Scarlet Monkeyflower Flower Essence 7.5ml",1,
+"fe01083-30m","Scarlet Monkeyflower Flower Essence 30ml",2,
+"fe01084-07m","Scotch Broom Flower Essence 7.5ml",1,
+"fe01084-30m","Scotch Broom Flower Essence 30ml",4,
+"fe01086-07m","Shasta Daisy Flower Essence 7.5ml",4,
+"fe01086-30m","Shasta Daisy Flower Essence 30ml",1,
+"fe01087-07m","Shooting Star Flower Essence 7.5ml",2,
+"fe01087-30m","Shooting Star Flower Essence 30ml",4,
+"fe01089-07m","Star Thistle Flower Essence 7.5ml",4,
+"fe01089-30m","Star Thistle Flower Essence 30ml",2,
+"fe01090-07m","Star Tulip Flower Essence 7.5ml",1,
+"fe01090-30m","Star Tulip Flower Essence 30ml",1,
+"fe01091-30m","Sticky Monkeyflower Flower Essence 30ml",1,
+"fe01093-30m","Sweet Pea Flower Essence 30ml",2,
+"fe01095-07m","Tiger Lily Flower Essence 7.5ml",3,
+"fe01096-07m","Trillium Flower Essence 7.5ml",6,
+"fe01096-30m","Trillium Flower Essence 30ml",2,
+"fe01097-07m","Trumpet Vine Flower Essence 7.5ml",2,
+"fe01097-30m","Trumpet Vine Flower Essence 30ml",3,
+"fe01099-30m","Yarrow Flower Essence 30ml",1,
+"fe01100-30m","Yellow Star Tulip Flower Essence 30ml",3,
+"fe01101-30m","Yerba Santa Flower Essence 30ml",1,
+"fe02001-07m","Five Flower Formula 7.5ml",28,
+"fe02001-30m","Five Flower Formula 30ml",53,
+"fe02002-07m","Yarrow Environmental Solution 7.5ml",14,
+"fe02002-30m","Yarrow Environmental Solution 30ml",26,
+"fes01028-30m","Rock Water Flower Essence 30ml",2,
+"fes01030-30m","Star of Bethlehem Flower Essence 30ml",2.75,
+"flower-essence-repertory","Flower Essence Repertory (Book)",6,
+"ftb-18","Foaming Top Bottle (18oz)",19,
+"ftb-2","Foaming Top Bottle (1.75oz)",29,
+"GiftCertificate","Gift Certificate",-2,
+"healing-intelligence","Healing Intelligence of Essential Oils",4,
+"midnightmagic-2z","Midnight Magic 2oz",-16,
+"naked-chocolate","Naked Chocolate (Book)",2,
+"PartialRefund",,3,
+"pluginpads","Plug In Diffuser Pads (5 pack)",39,
+"seasonsbox-2z","Seasons of the Soul Boxed Set (6)",4,
+"XB1001","Bottle - Clear (w/ Cap) (Sample)",1478,
+"XB1002","Bottle - Clear (w/ Cap) (1.75ml)",588,
+"XB1003","Bottle - Cobalt (w/ Orifice Cap) (5ml)",3628,
+"XB1004","Bottle - Cobalt (w/ Orifice Cap) (10ml)",2504,
+"XB1005","Bottle - Cobalt (w/ Polyseal + Dropper Caps) (30ml)",2738,
+"XB1006","Bottle - Cobalt (w/ Polyseal + Dropper Caps) (60ml)",1275,
+"XB1007","Bottle - Cobalt (w/ Polyseal Cap + 3mL Pipette) (120ml)",424,
+"XB1008","Bottle - Cobalt (w/ Polyseal Cap + 3mL Pipette) (240ml)",465,
+"XB1009","Bottle - Cobalt (w/ Polyseal Cap + 3mL Pipette) (480ml)",165,
+"XB1010","Bottle - Amber (w/ Polyseal Cap) (32oz/960mL)",94,
+"XB1011","Bottle - Aluminum (w/ insert & cap) 1.25L",63,
+"XB1201","Bottle - UV-Violet (5ml)",989,
+"XB1202","Bottle - UV-Violet (15ml)",0,
+"XB1203","Bottle - UV-Violet (30ml)",1397,
+"XB1204","Bottle - UV-Violet (100ml)",184,
+"XB1205","Bottle - UV-Violet (200ml)",60,
+"XB1207","0.35 oz Blue Cobalt Glass Roll",192,
+"XB1301","Bottle - Clear (240ml)",103,
+"XBC1003","Cap - Polyseal (30ml/60ml)",1833,
+"XBC1004","Cap - Polyseal (2oz/4oz)",3390,
+"XBC1005","Cap - Polyseal (8oz/16oz)",1541,
+"XBC1006","Jar - Cobalt (2oz)",982,
+"XBC1007","Jar - Cobalt (w/ Lid) (4oz)",98,
+"XBC1008","Jar - Cobalt (w/ Lid) (9oz)",60,
+"XBC1010","Flat Round Jar Cap (2oz)",176,
+"XBC1201","Cap - Violet Bottle (200ml)",86,
+"XBC1202","Orifice Reducer Cap - Violet Bottle (1.0mm)",369,
+"XBC1203","Orifice Reducer Cap - Violet Bottle (1.6mm)",559,
+"XBC1204","Orifice Reducer Cap - Violet Bottle (2.0mm)",391,
+"XBCD1101","Pipette Dropper - Violet (5ml)",1328,
+"XBCD1102","Pipette Dropper - Violet (15ml)",101,
+"XBCD1103","Pipette Dropper - Violet (30ml)",1631,
+"XBCD1104","Pipette Dropper Violet - (100mL)",295,
+"XBCD1105","Roll-on / Glass Ball Black Base for violet bottles 5mL - 100mL",100,
+"XBCP101","Treatment Pump (30ml)",1055,
+"XBCP102","Treatment Pump (60ml)",659,
+"XBCP201","Pump Cap - Violet Jars (5ml/15ml/30ml/100ml)",391,
+"XBCP301","Lotion Pump Cap (120ml/240ml) (narrow)",230,
+"XBCP302","Lotion Pump Cap (120ml/240ml) (Wide)",217,
+"XBCS101","Spray Cap (30ml/60ml)",419,
+"XBCS102","Spray Cap (120ml)",376,
+"XBCSB1001","Shrink Band - Bottle (30ml/60ml)",4056,
+"XBCSB1002","Shrink Band - Bottle (120ml)",580,
+"XBCSB1003","Shrink Band - Bottle (240ml/480ml)",3750,
+"XBCSB1004","Shrink Band - Jar (2oz)",260,
+"XBCSB1005","Shrink Band - Jar (4oz)",865,
+"XBCSB1006","Shrink Band - Jar (9oz)",900,
+"XBP101","Bottle - Plastic (w/ Disc Top) (2oz)",58,
+"XBP103","Bottle - Plastic (w/ Cap) (8oz)",40,
+"XBP104","Bottle - Plastic (w/ Cap) (16oz)",70,
+"XBP105","Bottle - Plastic (w/ Caps) (32oz)",64,
+"XBP106","Jug - Plastic (0.5gal/64oz)",12,
+"XBP107","Jug - Plastic (1 gal)",12,
+"XMALM","Sweet Almond Oil",15659.71,
+"XMALS","Foamer Unscented Aloe Castile Soap, (Organic, 5 gal. cube)",37729.2,
+"XMAMBR","Ambrette Seed 'Musk' CO2",17.5,"LIA146AMBR"
+"XMAMY","Amyris",4704.54,"PEA156AMY"
+"XMANG","Angelica",412.43,"LIG267ANG"
+"XMAPR","Apricot Oil - Organic",11372,
+"XMARG","Argan nut Oil",8726.37929,
+"XMARN","Arnica CO2",2411.67,"FLH256ARN"
+"XMASE","Aniseed",4241.67,"SAA116ASE"
+"XMAST","Star Anise",946.53,"PEB086AST"
+"XMAVO","Avocado Oil",-314.3,
+"XMBBPF","Bergamot BPF Free",6968.86,"MAL075BPF"
+"XMBC","Copaiba Balsam",41.63,"PEE107BC"
+"XMBER","Bergamot",90,"LIB026BER"
+"XMBERO","Organic Bergamot",8351.37,"JEJ256BERO"
+"XMBIR","Sweet Birch",789.25,"PEE107BIR"
+"XMBL","Bay Laurel",797.075,"SAJ106BL"
+"XMBMC","Basil",435.1,"MAF265BMC"
+"XMBOR","Borage Oil",5906.5,
+"XMBP","Peru Balsam",817,"LIA105BP"
+"XMBS","Sweet Basil",4900.33,"SAD116BS"
+"XMCA","Cacao Absolute",3514.95,"APH047CA"
+"XMCAJ","Cajeput",1992.2,"SAB116CAJ"
+"XMCAL","Calendula CO2",1432.25,"FLC296CAL"
+"XMCAN","Cannabis/Hemp essential oil",898.09,"PEI157CAN"
+"XMCAR","Caraway Seed CO2",2207.69,"FLF075CAR"
+"XMCARD","Cardamom CO2",1098.44,"FLG137CARD"
+"XMCARR","Carrot Root",4452.4,"FLC296CARR"
+"XMCARS","Carrot Seed",3109.65,"SAD116CARS"
+"XMCAS","Castor Oil",12070.6,
+"XMCB","Cinnamon Bark CO2, Burmannii",1399.75,"FLC296CB"
+"XMCBD","CBD",4453.56,"HGI118CBD"
+"XMCC","Catnip",803.44,"PEI145CC"
+"XMCH","Himalayan Cedarwood",8.4,"PEB086CH"
+"XMCHA","Himalayan Cedarwood, Aged",1500,"AGEJ057CH"
+"XMCHGC","German Chamomile CO2",905.44,"FLL235CHGC"
+"XMCHGS","German Chamomile SD",59.5,"LIF137CHGS"
+"XMCHH","Chamomile Hydrosol",2285,
+"XMCIS","Cistus",756.06,"PEA206CIS"
+"XMCIT","Citronella",2086.21,"PEI295CIT, SAJ106CIT"
+"XMCJC","Coconut & Jojoba Cream Base",9486.5,
+"XMCLC","Clove Bud CO2",901.24,"FLC016CLC"
+"XMCLS","Wild Clove Bud SD",1905.41,"SAG086CLS"
+"XMCM","Cinnamon Bark SD, Madagascar",1145.99,"SAJ106CM"
+"XMCOC","Cocoa Butter",7120,
+"XMCOR","Coriander CO2",888.77,"FLJ235COR"
+"XMCORS","Coriander SD",588.93,"LAI146CORS"
+"XMCOV","Coconut Oil, Virgin",37212,
+"XMCRN","Roman Chamomile",127.22,"PEC247CR"
+"XMCRO","Roman Chamomile, org.",2850.33,"SID287CRO"
+"XMCS","Cinnamon Bark CO2, Sri Lanka",2904.7,"FLA016CS"
+"XMCSU","Clary Sage",3196.23,"SAF137CSU"
+"XMCT","Texas Cedarwood",1253.48,"PEJ066CT"
+"XMCUM","Cumin, Black, Organic, CO2",1682.95,
+"XMCW","Wild Cedarwood",-2.92,"SAC096CW"
+"XMCWA","Cedarwood, Atlas, Special Aged",90,"AGEH287CW"
+"XMCYP","Cypress",1281.95,"SAD137CYP"
+"XMDAV","Davana",66.52,"PEH055DAV"
+"XMELE","Elemi",1110.24,"PEJ205ELE"
+"XMEUC","Eucalyptus Citriodora",0,
+"XMEUCO","Eucalyptus Citriodora (Organic)",4094.57,"SAJ116EUC"
+"XMEUD","Eucalyptus Dives",1714.68,"PEE107EUD"
+"XMEUDO","Eucalyptus Dives, Organic",27.12,"SCJ205EUD"
+"XMEUG","Blue Gum Eucalyptus",2511.26,"SAK046EUG"
+"XMEUR","Eucalyptus Radiata (narrow leaf)",4077.61,"SAF137EUR"
+"XMEUS","Eucalyptus Smithii",1353.59,"SCJ205EUS"
+"XMEVE","Evening Primrose Oil",11632.07929,
+"XMFCC","Frankincense Carteri CO2",6489.05,"FLG137FCC"
+"XMFCS","Frankincense Carteri SD",3260.34,"SCJ205FCS"
+"XMFIRD","Douglas Fir",159.32,"LIG145FIRD"
+"XMFIRDA","Douglas Fir Aged",500,"AGEJ057FIRD"
+"XMFIRDO","Douglas Fir (Organic)",2166.89,"SAC096FIRD"
+"XMFIRS","Siberian Fir",826.84,"PEB156FIRS"
+"XMFS","Sweet Fennel",836.84,"PEB156FS"
+"XMFSA","Frankincense Sacra",6827.69,"CLD037FSA"
+"XMFSAA","Frankincense Sacra, Special Aged",1250,"AGE287FSA"
+"XMFSE","Frankincense Serrata",1119.84,"FLC296FSE"
+"XMGA","Geranium Asperum",137.14,"SAD137GSA"
+"XMGAB","Geranium Absolute",770.72,"JOL105GAB"
+"XMGAL","Galbanum",370.47,"LIA136GAL"
+"XMGCO2","Ginger CO2",2892.91,"FLC016GC"
+"XMGP","Pink Grapefruit",3401.42,"JEB105GP"
+"XMGR","Rose Geranium",216.09,"PEG067GR"
+"XMGRA","Grapeseed Oil",22560,
+"XMGRR","Ruby Red Grapefruit",0,
+"XMGSA","Geranium S.A.",4086.59,"SAF137GSA"
+"XMGSD","Ginger SD",1326.53,"PEI295GSD"
+"XMGSDO","Ginger SD, Organic",1857.63,"SAC096GSD"
+"XMH2O","Spring Water",13513.62,
+"XMHAZ","Hazelnut Oil",29459.8,"JEJ187HAZ"
+"XMHB","Helichrysum, Balkan",1103.735,"AGJ106HB"
+"XMHBA","Helichrysum, Balkan, Aged",1500,"AGEJ057HB"
+"XMHC","Helichrysum, Corsican",4451.17,"TRG276HC"
+"XMHCA","Helichrysum, Corsican, Special Aged",1275,"AGE287HC"
+"XMHEM","Hempseed Oil",10670.3,
+"XMHF","Helichrysum, France",1584.28,"PED216HF"
+"XMHIO","Hi-Olive Castile Soap",52487.25,
+"XMHYD","Hyssop Decumbens",6435.56,"PEA206HYD"
+"XMHYO","Hyssop Officinalis",3906.25,"ROB225HYO"
+"XMIN","Inula",315.48,"VEJ135IN"
+"XMJBC","Juniper Berry CO2",480.67,"LIK105JBC"
+"XMJBS","Juniper Berry SD",1628.53,"SAG086JBS"
+"XMJG","Jasmine Absolute (Grandiflorum)",351.56,"JAB067JG"
+"XMJOJ","Jojoba Oil",17063.6,"JEH317JOJ"
+"XMJS","Jasmine Absolute (Sambac)",471.46,"JAI067JS"
+"XMKUK","Kukui Oil",28484.3,
+"XMLB","Bulgarian Lavender",1285.695,"SAF137LB"
+"XMLC","Lemongrass",4379.27,"JEH317LC"
+"XMLCO","Lavender Flower CO2",5078.18,"FLG137LCO"
+"XMLCP","Lime, CP",5434.96,"PEA206LCP"
+"XMLEM","Lemon, org",5812.365,"SAF137LEM"
+"XMLHI","Highland Lavender",4379.43,"SAG177LHI"
+"XMLHY","Lavender Hydrosol",4290,
+"XMLMC","Litsea 'May Chang'",2503.75,"SAD137LMC"
+"XMLS","Spike Lavender",1984.53,"SAJ106LS"
+"XMLSD","Lime, SD",1140,"CIL035LSD"
+"XMLVL","Lovage Leaf",546.56,"LIA286LVL"
+"XMLW","Wild Lavender",1802.46,"PEG067LW"
+"XMMAR","Sweet Marjoram",4176.24,"PEJ066MAR"
+"XMMCT","Coconut, Fractionated",53997.72,
+"XMMELB","Melissa, Balkan..",3619.65,"OPH246MELB"
+"XMMELG","Melissa, German",650.56,"VEC036MELG"
+"XMMG","Green Mandarin",4314.12,"MAL175MG"
+"XMMIN","Wild Mint",830.67,"PEA076MIN"
+"XMMR","Red Mandarin",874.21,"MAE257MR"
+"XMMY","Yellow Mandarin",172.43,"PEI295MY"
+"XMMYO","Yellow Mandarin, Org.",7184.71,"MAL175MYO"
+"XMMYR","Wild Myrrh",1530.31,"FLC147MYR"
+"XMMYRL","Lemon Myrtle",2832.35,"PEI136MYRL"
+"XMMYRT","Wild Myrtle",2310.17,"SAC096MYRT"
+"XMNER","Neroli",93.68,"SAB217NER"
+"XMNIA","Wild Niaouli",4018.43,"PEB156NIA"
+"XMNUT","Nutmeg",231.43,"PEK185NUT"
+"XMNUTO","Nutmeg (Organic)",440.14,"SAC016NUT"
+"XMOLI","Olive Oil",7890.847,
+"XMOO","Sweet Orange, Org.",3241.23,"SAJ106OO"
+"XMOT","Oregano",2745.19,"SAB217OT"
+"XMOW","Wild Sweet Orange",3685.19,"PEC067OW"
+"XMPALM","Palmarosa (India)",600.66,"SAC016PALM"
+"XMPALMN","Palmarosa (Nepal)",0,
+"XMPALO","Palo Santo",278.18,"PEI057PALO"
+"XMPATS","Special Dark Patchouli",288.19,"PEG286PATS"
+"XMPB","Peppermint, Bulgarian",6446.78,"ROJ126PB"
+"XMPD","Dark Patchouli",303,"SAD116PD"
+"XMPDA","Dark Patchouli, Special Aged",1155,"AGE287PD"
+"XMPEF","Patchouli Ex. Fine",139.21,"EDB107PEF"
+"XMPEP","Black Pepper",5132.73,"SAJ106PEP"
+"XMPETM","Mandarin Petitgrain",1687.89,"PED186PETM"
+"XMPETN","Neroli Petitgrain",2015.73,"EDG225PETN"
+"XMPETT","Petitgrain",5508.2,"PED186PETT"
+"XMPI","Peppermint, Indian",3187.11,"JEG277PI"
+"XMPLA","Plai",722.39,"PEJ066PLA"
+"XMPN","Pine Needle",1857.085,"SAJ106PN"
+"XMPOLY","Polysorbate 20 (Tween)",13550,
+"XMPOM","Pomegranate Seed Oil",12463.97929,
+"XMRAB","Rose Absolute, Bulgaria",468.76,"ROE117RAB"
+"XMRAM","Rose Absolute, Morocco",603.77,"JOH077RAM"
+"XMRAN","Rosemary Antioxidant",359.1,
+"XMRAVE","Ravensara",1921.795,"PEJ266RAVE"
+"XMRAVI","Ravintsara",2791.44,"PEB086RAVI"
+"XMRN","Wild Rosemary",2940.12,"SAD137RN"
+"XMROB","Rose Otto, Bulgarian",452.41,"ROI227ROB"
+"XMROH","Rose Hydrosol",11626.12,"MOJ267ROH"
+"XMROSA","Rosalina",469.295,"PEB086ROSA"
+"XMROSS","Rosehip Seed Oil",27465.77929,
+"XMROT","Rose Otto, Turkey",0,
+"XMRSC","Rosehip Total CO2",8057.28,"FLC016RSC"
+"XMRV","Rosemary Verbenone",1827.88,"MAE257RV"
+"XMRVH","Rosemary Verbenone Hydrosol",19.96,
+"XMRW","Rosewood",797.34,"PEC067RW"
+"XMSAG","Sage",1161.61,"PEB026SAG"
+"XMSAU","Wild Australian Sandalwood",212.29,"LIG267SAU"
+"XMSB","Sea Buckthorn",1772.395,"FLJ265SB"
+"XMSES","Sesame Oil",26384.3,
+"XMSHE","Shea Butter",7070,
+"XMSI","Sandalwood, Indian",3010.53,"RKH147SI"
+"XMSIA","Sandalwood, Indian Special Aged",300,"AGEH287SI"
+"XMSNC","Sandalwood, New Caledonian",128.14,"JEB186SNC"
+"XMSPE","Spearmint",599.46,"PEB026SPE"
+"XMSPI","Wild Spikenard",1118.16,"LIA146SPI"
+"XMSPR","Spruce",2189.94,"PEI057SPR"
+"XMSPRB","Black Spruce",1772.22,"LII206SPRB, PEI057SPRB"
+"XMSRH","Sandalwood, Royal Hawaiian",2648.36,"HAA117SRH"
+"XMSRHA","Sandalwood, Royal Hawaiian, Aged",1500,"AGEJ057SRH"
+"XMSUN","Sunflower Oil",25752.8,
+"XMTAG","Tagetes",1566.65,"PEE206TAG"
+"XMTAM","Tamanu Oil",2665,
+"XMTANG","Tangerine",-35.14,"EDG107TANG"
+"XMTANS","Blue Tansy",0,"ORH256TANS"
+"XMTANSO","Blue Tansy (Organic)",480.95,"ORH256TANS"
+"XMTB","""Benchmark"" Thyme",8872.205,"BEB027TB"
+"XMTL","Thyme",2454.75,"SAF137TL"
+"XMTT","Tea Tree",2635.24,"JEG277TT"
+"XMTTH","Thyme, c.t. thymol",5443.28,"SAJ106TTH"
+"XMTTL","Lemon Tea Tree",2920.57,"SCJ205TTL"
+"XMTUR","Turmeric",1946.35,"FLD147TUR"
+"XMV12NO","Vanilla CO2, Non Organic",50.62,"FLG137VNO"
+"XMVET","Vetiver",767.84,"LIG107VET"
+"XMVL","Lemon Verbena",469.48,"SAJ106VL"
+"XMVR","Valerian Root",403.38,"PED046VR"
+"XMWCH","Witch Hazel",1370,
+"XMWIN","Wintergreen",2606.17,"SAD137WIN"
+"XMYAR","Blue Yarrow",523.66,"PEI057YAR"
+"XMYYC","Ylang Ylang Complete",766.72,"SAJ116YYC"
+"XMYYE","Ylang Ylang Extra",256.705,"PEB026YYE"
+"XP101","3ml Pipette",2300,
+"XP102","1.75ml Pipette",1400,
+"XP103","15ml Pipette",250,
+"XPCOLD","Cold Air Fan Diffuser",23,
+"XPGEO","Wood Nebulizing Diffuser (Geometric Base)",69,
+"XPRAW","Wood Nebulizing Diffuser (Round, Raw)",61,
+"XPSTAINED","Wood Nebulizing Diffuser (Round, Stained)",20,
+"XPULTRA-C","Ultrasonic Diffuser (Color)",29,
+"XPULTRA-W","Ultrasonic Diffuser (White)",76,
+"XX0001","Box, 11-1/4 x 8-3/4 x 6 Corrugated  25/500",200,
+"XX0002","Box, 7 x 4 x 2 Mailer,  100/3600",900,
+"XX0003","Tape, 3 x 55 Clear 2.6 mil Uline Quiet",36,
+"XX0004","Peanuts, 20 Cub. ft. Bag, Biodegradable",8,
+"XX0005","Wadding Rolls, 1/4 - 12 - 200 Kraft Versa-Pak",20,
+"XX0007","Box, 7 x 7 x 6 Corrugated 25/bndl",225,
+"XX0008","Box, 11-1/4 x 8-3/4 x 10 Corrugated  25/500",25,
+"XX0009","Box, 7 x 7 x 3 Corrugated 25/bndl",300,
