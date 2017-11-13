@@ -4,7 +4,39 @@ import csv
 import datetime
 from operator import itemgetter
 
-def create_oil_list(oil_name):
+
+def full_rumple_list():
+
+    cell = 0
+    oil_list = []
+
+    try:
+        book = xlrd.open_workbook("Rumplestilskin.xls")
+        sh = book.sheet_by_index(0)
+    except NameError:
+        print("You are missing the file Rumplestilskin.xls")
+        return
+
+    while sh.cell_value(rowx=cell, colx=0) != "END":
+
+        if len(sh.cell_value(rowx=cell, colx=1)) > 0:
+
+            temp_oil = []
+            temp_oil.append(sh.cell_value(rowx=cell, colx=1))  # 0 Lot#
+            temp_oil.append(sh.cell_value(rowx=cell, colx=0))  # 1 Oil Name
+            temp_oil.append("")                                # 2 Main Stock
+            temp_oil.append("")                                # 3 Back Stock
+            temp_oil.append("")                                # 4 Purchase date (str) for display
+            temp_oil.append(sh.cell_value(rowx=cell, colx=5))  # 5 Country of origin
+            temp_oil.append(sh.cell_value(rowx=cell, colx=8))  # 6 Cultivation type
+            temp_oil.append("")                                # 7 Date time object for sorting
+
+            oil_list.append(temp_oil)
+        cell += 1
+
+    return oil_list
+
+def create_oil_list(oil_name, product_code):
 
     oil_list = []
     count = 0
@@ -20,23 +52,24 @@ def create_oil_list(oil_name):
     while sh.cell_value(rowx=cell, colx=0) != "END":
 
         if oil_name.lower() in sh.cell_value(rowx=cell, colx=0).lower():
-            temp_oil = []
-            temp_oil.append(sh.cell_value(rowx=cell, colx=1))    # 0 Lot#
-            temp_oil.append(sh.cell_value(rowx=cell, colx=0))    # 1 Oil Name
-            temp_oil.append("")                                  # 2 Main Stock
-            temp_oil.append("")                                  # 3 Back Stock
-            temp_oil.append("")                                  # 4 Purchase date (str) for display
-            temp_oil.append(sh.cell_value(rowx=cell, colx=5))    # 5 Country of origin
-            temp_oil.append(sh.cell_value(rowx=cell, colx=8))    # 6 Cultivation type
-            temp_oil.append("")                                  # 7 Date time object for sorting
+            if product_code.lower() in sh.cell_value(rowx=cell, colx=1)[-4:].lower():
+                temp_oil = []
+                temp_oil.append(sh.cell_value(rowx=cell, colx=1))    # 0 Lot#
+                temp_oil.append(sh.cell_value(rowx=cell, colx=0))    # 1 Oil Name
+                temp_oil.append("")                                  # 2 Main Stock
+                temp_oil.append("")                                  # 3 Back Stock
+                temp_oil.append("")                                  # 4 Purchase date (str) for display
+                temp_oil.append(sh.cell_value(rowx=cell, colx=5))    # 5 Country of origin
+                temp_oil.append(sh.cell_value(rowx=cell, colx=8))    # 6 Cultivation type
+                temp_oil.append("")                                  # 7 Date time object for sorting
 
-            oil_list.append(temp_oil)
-            count += 1
+                oil_list.append(temp_oil)
+                count += 1
 
         cell += 1
 
     if count == 0:
-        return False
+        return [[]]
     else:
         return oil_list
 
